@@ -5,7 +5,7 @@ metadata:
   name: cbz-pod
   labels:
     app: cbz-app
-spec:
+spec::
   containers:
     - name: cbz-container
       image: httpd
